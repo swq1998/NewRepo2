@@ -50,7 +50,6 @@ int main() {
 	cout << a << endl;
 	cout << b << endl;
 
-
 	test2(&a, &b);
 
 	cout << a << endl;
